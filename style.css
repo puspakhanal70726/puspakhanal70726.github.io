@@ -1,0 +1,19 @@
+.body{
+  font-family: 'Lato', sans-serif;
+  }
+.heading{
+  text-align: center;
+}
+.blog{
+  font-size: 140%;
+  color: black;
+  margin-left: 500px;
+}
+.blog a{
+  text-decoration: none;
+  color: black;
+  font-size: bold;
+}
+.date{
+  margin-left: 1000px;
+}
