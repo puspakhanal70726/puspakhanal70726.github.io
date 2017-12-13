@@ -1,8 +1,9 @@
 .body{
+  background-image: url(image/hero.jpg);
   font-family: 'Lato', sans-serif;
   }
 .heading{
-  text-align: center;
+margin-left: 40px;
 }
 .blog{
   font-size: 140%;
@@ -13,7 +14,14 @@
   text-decoration: none;
   color: black;
   font-size: bold;
+  font-size: 120%;
 }
 .date{
   margin-left: 1000px;
+}
+.subheading{
+  margin-left: 500px;
+  position: relative;
+  top: -50px;
+  font-size: 190%;
 }
